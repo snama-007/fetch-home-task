@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FetchRewardsData</string>
+    <string name="list_id">List ID: </string>
+    <string name="fetch_elements_by_group">Fetch Elements by Group </string>
+    <string name="fetch_elements_by_list">Fetch Elements by List </string>
+</resources>
